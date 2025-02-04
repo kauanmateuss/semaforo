@@ -6,9 +6,16 @@ Este projeto tem como objetivo explorar o uso de temporizadores a partir de um p
 
 ## Componentes Utilizados
 
+Para funcionar na BitDogLab:
+
 - Microcontrolador Raspberry Pi Pico W
 - **LED RGB** com pinos conectados às **GPIOs 11, 12 e 13**.
-- **Botão A** conectado à **GPIO 5**.
+
+Para funcionar no simulador Wokwi:
+
+- Microcontrolador Raspberry Pi Pico W
+- 03 LEDs
+- 03 Resistores de 330 Ω.
 
 ## Funcionalidades
 
